@@ -7,7 +7,6 @@ data = {
             "title": "string",
             "media_file": "string",
             "thumbnail": "string",
-            "point_color": "string",
             "main_color": "string"
         }
     },
