@@ -1,147 +1,151 @@
 {
-    "header": {
-        "last_updated": "2024-10-16-0257",
-        "scheme": {
-            "id": "int",
-            "artist": "string",
-            "title": "string",
-            "media_file": "string",
-            "thumbnail": "string",
-            "main_color": "string"
-        }
-    },
-    "body": [
-        {
-            "id": 0,
-            "artist_en": "Kessoku Band",
-            "title_en": "Seisyun Complex",
-            "artist_jp": "結束バンド",
-            "title_jp": "青春コンプレックス",
-            "audio_filename": "seisyun_complex.mp3",
-            "video_filename": "",
-            "cover_filename": "seisyun_complex.jpg",
-            "color": "#7f1fe5"
-        },
-        {
-            "id": 1,
-            "artist_en": "Kessoku Band",
-            "title_en": "Distortion!!",
-            "artist_jp": "結束バンド",
-            "title_jp": "Distortion!!",
-            "audio_filename": "distortion.mp3",
-            "video_filename": "",
-            "cover_filename": "distortion.jpg",
-            "color": "#e81a5b"
-        },
-        {
-            "id": 2,
-            "artist_en": "Kessoku Band",
-            "title_en": "KaraKara",
-            "artist_jp": "結束バンド",
-            "title_jp": "カラカラ",
-            "audio_filename": "karakara.mp3",
-            "video_filename": "",
-            "cover_filename": "karakara.jpg",
-            "color": "#1a7cc3"
-        },
-        {
-            "id": 3,
-            "artist_en": "Kessoku Band",
-            "title_en": "Guitar, Loneliness and Blue Planet",
-            "artist_jp": "結束バンド",
-            "title_jp": "ギターと孤独と蒼い惑星",
-            "audio_filename": "g_l_b.mp3",
-            "video_filename": "g_l_b.mp4",
-            "cover_filename": "g_l_b.jpg",
-            "color": "#ed709a"
-        },
-        {
-            "id": 4,
-            "artist_en": "Kessoku Band",
-            "title_en": "That band",
-            "artist_jp": "結束バンド",
-            "title_jp": "あのバンド",
-            "audio_filename": "that_band.mp3",
-            "video_filename": "that_band.mp4",
-            "cover_filename": "that_band.jpg",
-            "color": "#1a7cc3"
-        },
-        {
-            "id": 5,
-            "artist_en": "Kessoku Band",
-            "title_en": "What is wrong with",
-            "artist_jp": "結束バンド",
-            "title_jp": "なにが悪い",
-            "audio_filename": "what_is_wrong.mp3",
-            "video_filename": "",
-            "cover_filename": "what_is_wrong.jpg",
-            "color": "#f7b41b"
-        },
-        {
-            "id": 6,
-            "artist_en": "Kessoku Band",
-            "title_en": "Never forget",
-            "artist_jp": "結束バンド",
-            "title_jp": "忘れてやらない",
-            "audio_filename": "never_forget.mp3",
-            "video_filename": "never_forget.mp4",
-            "cover_filename": "never_forget.jpg",
-            "color": "#f7b41b"
-        },
-        {
-            "id": 7,
-            "artist_en": "Kessoku Band",
-            "title_en": "If I could be a constellation",
-            "artist_jp": "結束バンド",
-            "title_jp": "星座になれたら",
-            "audio_filename": "constellation.mp3",
-            "video_filename": "constellation.mp4",
-            "cover_filename": "constellation.jpg",
-            "color": "#e81a5b"
-        },
-        {
-            "id": 8,
-            "artist_en": "Kessoku Band",
-            "title_en": "Rockn' Roll, Morning Light Falls on You",
-            "artist_jp": "結束バンド",
-            "title_jp": "転がる岩, 君に朝が降る",
-            "audio_filename": "rockn_roll.mp3",
-            "video_filename": "",
-            "cover_filename": "rockn_roll.jpg",
-            "color": "#ed709a"
-        },
-        {
-            "id": 9,
-            "artist_en": "Kessoku Band",
-            "title_en": "Flashbacker",
-            "artist_jp": "結束バンド",
-            "title_jp": "フラッシュバッカー",
-            "audio_filename": "flashbacker.mp3",
-            "video_filename": "flashbacker.mp4",
-            "cover_filename": "default.jpg",
-            "color": "#ed709a"
-        },
-        {
-            "id": 10,
-            "artist_en": "Kessoku Band",
-            "title_en": "Into the Light",
-            "artist_jp": "結束バンド",
-            "title_jp": "光の中へ",
-            "audio_filename": "",
-            "video_filename": "into_the_light.mp4",
-            "cover_filename": "into_the_light.jpg",
-            "color": "#f7b41b"
-        },
-        {
-            "id": 11,
-            "artist_en": "Kessoku Band",
-            "title_en": "Blue Spring and Western Sky",
-            "artist_jp": "結束バンド",
-            "title_jp": "青い春と西の空",
-            "audio_filename": "blue_spring.mp3",
-            "video_filename": "",
-            "cover_filename": "into_the_light.jpg",
-            "color": "#f7b41b"
-        }
-    ]
+   "header": {
+      "last_update": "2024-10-16 09:16:45",
+      "scheme": {
+         "id": "int",
+         "sub_id": "string",
+         "artist": "string",
+         "title": "string",
+         "media_file": "string",
+         "thumbnail": "string",
+         "main_color": "string"
+      }
+   },
+   "body": [
+      {
+         "id": 0,
+         "sub_id": "7FDRQifEMUQ",
+         "artist": "Kessoku Band",
+         "title": "seisyun complex",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/7FDRQifEMUQ.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/7FDRQifEMUQ.jpg",
+         "main_color": "150627"
+      },
+      {
+         "id": 1,
+         "sub_id": "IwHwv-lcxi4",
+         "artist": "Kessoku Band",
+         "title": "Karakara",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/IwHwv-lcxi4.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/IwHwv-lcxi4.jpg",
+         "main_color": "1A7CC3"
+      },
+      {
+         "id": 2,
+         "sub_id": "SDk1RA4g8CA",
+         "artist": "Kessoku Band",
+         "title": "Guitar, Loneliness and Blue Planet",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/SDk1RA4g8CA.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/SDk1RA4g8CA.jpg",
+         "main_color": "ED709A"
+      },
+      {
+         "id": 3,
+         "sub_id": "q-bCp4MxuYU",
+         "artist": "Kessoku Band",
+         "title": "That band",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/q-bCp4MxuYU.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/q-bCp4MxuYU.jpg",
+         "main_color": "1A7CC3"
+      },
+      {
+         "id": 4,
+         "sub_id": "BVvcQ4ge8Ow",
+         "artist": "Kessoku Band",
+         "title": "What is wrong with",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/BVvcQ4ge8Ow.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/BVvcQ4ge8Ow.jpg",
+         "main_color": "F7B41B"
+      },
+      {
+         "id": 5,
+         "sub_id": "8Selo-P1Ovc",
+         "artist": "Kessoku Band",
+         "title": "Never forget",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/8Selo-P1Ovc.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/8Selo-P1Ovc.jpg",
+         "main_color": "FFFFFF"
+      },
+      {
+         "id": 6,
+         "sub_id": "rXRvs_FrwEk",
+         "artist": "Kessoku Band",
+         "title": "If I could be a constellation",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/rXRvs_FrwEk.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/rXRvs_FrwEk.jpg",
+         "main_color": "E81A5B"
+      },
+      {
+         "id": 7,
+         "sub_id": "ecVnw_SiREQ",
+         "artist": "Kessoku Band",
+         "title": "Flashbacker",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/ecVnw_SiREQ.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/ecVnw_SiREQ.jpg",
+         "main_color": "FFFFFF"
+      },
+      {
+         "id": 8,
+         "sub_id": "E5O0mCrUdAM",
+         "artist": "Kessoku Band",
+         "title": "Rockn' Roll, Morning Light Falls on You",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/E5O0mCrUdAM.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/E5O0mCrUdAM.jpg",
+         "main_color": "ED709A"
+      },
+      {
+         "id": 9,
+         "sub_id": "BN1ofrqIl9I",
+         "artist": "Kessoku Band",
+         "title": "Blue Spring and Western Sky",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/BN1ofrqIl9I.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/BN1ofrqIl9I.jpg",
+         "main_color": "FFFFFF"
+      },
+      {
+         "id": 10,
+         "sub_id": "omckrS77vDo",
+         "artist": "Kessoku Band",
+         "title": "Into the Light",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/omckrS77vDo.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/omckrS77vDo.jpg",
+         "main_color": "FFFFFF"
+      },
+      {
+         "id": 11,
+         "sub_id": "PiIAVnFX2eo",
+         "artist": "Kessoku Band",
+         "title": "Re:Re:",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/PiIAVnFX2eo.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/PiIAVnFX2eo.jpg",
+         "main_color": "000000"
+      },
+      {
+         "id": 12,
+         "sub_id": "LaZIDFaobMU",
+         "artist": "Kessoku Band",
+         "title": "milky way",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/LaZIDFaobMU.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/LaZIDFaobMU.jpg",
+         "main_color": "FFFFFF"
+      },
+      {
+         "id": 13,
+         "sub_id": "FnhedPLxksQ",
+         "artist": "Kessoku Band",
+         "title": "UNITE",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/FnhedPLxksQ.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/FnhedPLxksQ.jpg",
+         "main_color": "FFFFFF"
+      },
+      {
+         "id": 14,
+         "sub_id": "10G-lFzexd0",
+         "artist": "Kessoku Band",
+         "title": "Bundle up your dreams",
+         "media_file": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/audio/10G-lFzexd0.mp3",
+         "thumbnail": "https://github.com/bemuse01/kessoku-band-data/raw/main/assets/images/10G-lFzexd0.jpg",
+         "main_color": "FFFFFF"
+      }
+   ]
 }
