@@ -72,8 +72,6 @@ def insert(p):
                 x = (w - h) / 2
                 crop_area = (x, 0, x + h, h)
                 cropped_image = image.crop(crop_area)
-                cx = cropped_image.width
-                cy = cropped_image.height
 
                 resized_image = cropped_image.resize((200, 200)) 
 
