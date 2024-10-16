@@ -1,0 +1,7 @@
+audio_path = 'assets/audio/'
+images_path = 'assets/images/'
+github_url = 'https://github.com/bemuse01/kessoku-band-data/raw/main/'
+playlist_url = 'https://www.youtube.com/watch?v=PiIAVnFX2eo&list=PL3On5o_P3DzPM6HYQ28qzR0262-eS_AWa'
+thumbnail_url = 'https://img.youtube.com/vi/'
+thubnail_size = '/maxresdefault.jpg'
+data_path = 'data.json'
